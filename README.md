@@ -2,7 +2,6 @@
 
 A secure decentralized vault system that enforces strict authorization controls for fund withdrawals. The system separates concerns between fund custody and permission validation through two specialized smart contracts.
 
-
 ## Table of Contents
 
 - [Overview](#overview)
@@ -413,6 +412,3 @@ For issues or questions:
 ---
 
 **Built with security and correctness as top priorities.**
-#   a u t h o r i z a t i o n - g o v e r n e d - v a u l t - s y s t e m 
- 
- 
